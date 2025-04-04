@@ -1,1 +1,4 @@
-let = 123;
+"use strict";
+
+alert(`name ${1}`)
+
