@@ -1,4 +1,4 @@
 "use strict";
 
-alert(`name ${1}`)
-
+let userName = prompt('Your name ?:', '');
+alert(`Hello ${userName}`);
